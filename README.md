@@ -1,7 +1,7 @@
 Date: 2019-2020
-# Structural Programming - Engineering Studies
+# Structured Programming - Engineering Studies
 
-This repository contains a collection of programming exercises from the "Structural Programming" course, which is part of my engineering degree program.
+This repository contains a collection of programming exercises from the "Structured Programming" course, which is part of my engineering degree program.
 The exercises focus on various concepts of C programming, including arrays, pointers, structures, memory management, and more.
 
 ## Exercises
