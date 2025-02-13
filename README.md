@@ -1,4 +1,4 @@
-2020 | 2nd semester of Engineering Studies
+2020 | 2nd semester of Computer Science
 # Structured Programming - Engineering Studies
 
 This repository contains a collection of programming exercises from the "Structured Programming" course, which is part of my engineering degree program.
