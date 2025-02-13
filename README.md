@@ -10,7 +10,7 @@ The repository includes the following examples:
 
 1. **Function Implementations**: Various examples of functions working with arrays, pointers, and other structures.
 2. **Array Manipulation**: Code that shows how to manipulate and process arrays.
-3. **Structures and Unions**: Examples of C structures and unions being used to model data.
+3. **Structures**: Examples of C structures being used to model data.
 4. **Pointers**: Demonstrations of how pointers work in C, including pointer manipulation and memory management.
 5. **Matrix Operations**: Codes that perform matrix operations, such as summing elements, calculating averages, and matrix multiplication.
 6. **Prime Number Calculations**: Programs to check whether a number is prime and to find the largest prime number below a given number.
